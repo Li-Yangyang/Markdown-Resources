@@ -1,6 +1,7 @@
 <h1><center><font color="black" size = "5px" face=Family style="line-height:1;">Working Summary(No.1)</font></center></h1>
 <center><font face=Family size='3px' style="line-height:1;">Yangyang Li</font></center>
 <center><font size='3px' face=Family>2017.3.1</font></center>
+
 <font color='336699' size=4px face='Arial' ><B>1.Introduction</B></font>
 <p style='text-indent:2em' ><font size='3px' face=Family >For the following work and the knowledge of the future project, the preparation work had been completed in these two weeks, which is aimed to select targets(binary stars)from WDS catalog and get cross-match with other catalogs using the proper motion information of binary stars, mainly PPMXL, Pan-StarrS1 and Gaia DR1, because we need to select those that are physically associated. After applying the consistent proper motion standard to the catalog, we can remove the unreliable systems or optical binaries. Here we use the 3-σ judgement to exclude the unqualified systems. The original WDS catalog contains 138999 systems. After the match between WDS and PPMXL, we get 45273 binary stars from 96528 systems which have positions and complete proper motion information in PPXML catalog while reducing the number to 6785 after the match with Gaia DR1.</font></p>
 <font size='4px' color='33669' face='Arial'>
